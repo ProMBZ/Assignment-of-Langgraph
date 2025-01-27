@@ -114,7 +114,8 @@ All work must be done in a **Google Colab notebook**, and you will **share a pub
 
 ## 6. Project Submision Link
 
--  **Assignment** Submission Link: https://forms.gle/5jV9e9E7dwvEYf9y5
+-  **Assignment*  Submission Link: https://forms.gle/5jV9e9E7dwvEYf9y5
+-  **Presentation* Link: https://docs.google.com/presentation/d/1Pc0n1MirVVVGhIX780neC_R7y-pAYu9Q4voSwd1zszE/edit?usp=sharing
 
 ---
 
