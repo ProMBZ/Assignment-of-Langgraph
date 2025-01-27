@@ -112,12 +112,9 @@ All work must be done in a **Google Colab notebook**, and you will **share a pub
 
 ---
 
-## 6. Timeline (Suggested)
+## 6. Project Submision Link
 
-- **Week 1**: Familiarize with Tavily, Gemini (or a stand-in LLM), and optional search APIs.
-- **Week 2**: Implement the basic pipeline in Colab (Tavily → Gemini → Output).
-- **Week 3**: Add search integration and HITL if desired. Refine code and test.
-- **Week 4**: Finalize the notebook, create the presentation, and share via the required channels.
+-  **Assignment** Submission Link: https://forms.gle/5jV9e9E7dwvEYf9y5
 
 ---
 
